@@ -1,0 +1,4 @@
+GROQ_API = "your-key"
+HF_TOKEN = "your-key"
+TAVILY_API = "your-key"
+nvidia = "your-key"
